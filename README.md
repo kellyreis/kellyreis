@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-My name is Kelly and I'm a student of Web Development and Systems Analysis and development 📝💻
+My name is Kelly and I'm Web Development 📝💻
 
  <div>
   <a href="https://github.com/kellyreis">
