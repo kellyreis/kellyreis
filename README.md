@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-My name is Kelly and I'm Web Development 📝💻
+I'm Web Development 📝💻
 
  <div>
   <a href="https://github.com/kellyreis">
