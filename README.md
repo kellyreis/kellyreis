@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I'm Web Development 📝💻
+
 
  <div>
   <a href="https://github.com/kellyreis">
